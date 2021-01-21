@@ -10,7 +10,7 @@ The python code reports the following characteristics in a graph:
 2.	Overlay a scatter of the 2015 data for any points (highs and lows) for which the ten year record (2005-2014) record high or record low was broken in 2015.
 3.	Removal of leap days from the dataset for the purpose of this visualization.
 
-Features used in code:
+Code consists of:
 •	Pandas dataframes
 •	Numpy arrays
 •	mplleaflet to convert Matplotlib plots into Leaflet web geographic maps
