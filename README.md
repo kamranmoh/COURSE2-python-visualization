@@ -11,13 +11,22 @@ The python code reports the following characteristics in a graph:
 3.	Removal of leap days from the dataset for the purpose of this visualization.
 
 Code consists of:
+
 •	Pandas dataframes
+
 •	Numpy arrays
+
 •	mplleaflet to convert Matplotlib plots into Leaflet web geographic maps
+
 •	Cleaning, structuring and enriching raw data into a desired format (data wrangling)
+
 •	Working with dates
+
 •	Data aggregation
+
 •	Pivot tables
+
 •	Matplotlib multiplotting
+
 
 IDE: Jupyter notebook
