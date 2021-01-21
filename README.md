@@ -1,5 +1,6 @@
 # Python-data-analytics
 This showcase has the following features:
+
 Raw data: 
 Min/max temperature data of Vestervig (a place in north –west Denmark) is downloaded from a source in web (The National Centers for Environmental Information - Daily Global Historical Climatology Network) as csv. Data columns we are interested in are weather station id (ID), date (date), type of temperature (element type (TMAX, TMIN)) and finally value of temperature in each type (value).
 
